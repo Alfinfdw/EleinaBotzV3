@@ -16,11 +16,11 @@ exports.donasi = (prefix) => {
 return `
 *Donasi*
 
-  > Gopay : 085731947500
-  > Dana : 085731947500
+  > Gopay : 085608468994
+  > Dana : 085608468994
   > Ovo : -
   > Allpay : -
-  > Saweria : https://saweria.co/oktakc<
+  > Saweria : https://saweria.co/Divsan<
 
 _Terima Kasih Buat Kalian Kalian_
 _Yang Sudah Berdonasi Semoga_
